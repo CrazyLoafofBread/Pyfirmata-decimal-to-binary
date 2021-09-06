@@ -7,7 +7,7 @@ The leds will light in a way that they will represent the binary code of the num
 
 This project needs the pyfirmata library, if you dont have that library you can download it in the termina using the command: "pip install pyfirmata"
 
-I will also attach a picture with the circuit and the code in C++:
+I will also attach a picture with the circuit and the code in C++, you can go on https://www.tinkercad.com/ and test it on a simulation:
 
 //
 int integer = 0;
